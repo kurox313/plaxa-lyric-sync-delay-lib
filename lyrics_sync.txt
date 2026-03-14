@@ -11,4 +11,4 @@
 #   3. Read the sync value from the topbar (sync:+X.XXs)
 #   4. Add it here and push to GitHub
 
-Spotify | Feel It Still | 2.50
+Spotify | Feel It Still | -6.25
