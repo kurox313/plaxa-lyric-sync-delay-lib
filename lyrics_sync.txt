@@ -1,0 +1,14 @@
+# plaxaV1 — Lyrics Sync Offset Database
+# Format: PROVIDER | TITLE | DELAY
+# - PROVIDER: lyrics provider (Spotify, Musixmatch, NetEase, LRClib, Megalobiz)
+# - TITLE: song title, case-insensitive
+# - DELAY: seconds (positive = show lyrics later, negative = show earlier)
+# - Lines starting with # are comments, blank lines ignored
+#
+# How to find the right delay:
+#   1. Play the song, press L to enable lyrics
+#   2. Use , and . keys to nudge until lyrics match
+#   3. Read the sync value from the topbar (sync:+X.XXs)
+#   4. Add it here and push to GitHub
+
+Spotify | Feel It Still | 2.50
